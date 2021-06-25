@@ -1625,10 +1625,6 @@ html.platform-osx .scroller-2TZvBN {
   z-index: 10;
 }
 
-#app-mount .channelName-2YrOjO {
-  font-size: 5px;
-}
-
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
